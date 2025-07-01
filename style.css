@@ -1,0 +1,27 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+h1, h2, h3 {
+  font-weight: 700;
+}
+a {
+  transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+button {
+  transition: all 0.2s ease-in-out;
+}
+input, textarea, select {
+  transition: all 0.2s ease-in-out;
+}
+.bg-gradient-header {
+  background: linear-gradient(to right, #1d4ed8, #9333ea);
+}
+.shadow-hover:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+}
+.nav-link {
+  color: #4b5563;
+}
+.nav-link:hover {
+  color: #1d4ed8;
+}
