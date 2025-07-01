@@ -25,3 +25,7 @@ input, textarea, select {
 .nav-link:hover {
   color: #1d4ed8;
 }
+body {
+  background-color: #f0f0f0;
+  color: #333;
+}
